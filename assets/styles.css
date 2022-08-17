@@ -1,0 +1,100 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+}
+
+body {
+    margin:0;
+    padding: 0;
+    background-color: rgb(255, 255, 255);
+}
+
+
+nav {
+    width:100%;
+    background: #ffffff;
+    overflow: auto;
+}
+
+ul {
+    padding: 0;
+    margin: 0 0 0 150px;
+    list-style: none;
+}
+
+li {
+    float: right;
+
+}
+
+.logo img {
+    padding-left: 100px;   
+    position: absolute;
+    margin-top: 0px;
+    margin-left: 0px;
+
+}
+
+nav a {
+    width: 100px;
+    display: block;
+    padding: 21px 40px;
+    text-decoration: none;
+    color: black;
+    text-align: right;
+}
+
+nav a:hover {
+    animation:ease-in;
+    background-color: rgb(255, 255, 155);
+    
+
+}
+
+.titulo {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 44px;
+    text-align: center;
+
+}
+
+.subtitulo {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    text-align: center;
+}
+
+.cabecera {
+    background-image: url(./img/image_background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 90px;
+    padding-bottom: 90px;
+    color: rgb(227, 227, 227);
+}
+
+.twitch {
+    margin: auto;
+    width: 70%;
+    padding: 10px;
+}
+
+.footer {
+    font-size: 10px;
+    text-align: center;
+    background-color: black;
+    padding-bottom: 300px;
+    color: #ffffff;
+    
+}
+
+.copyright {
+    padding-top: 30px;
+}
+
+.principal {
+    background-color: rgb(249, 249, 249);
+    margin: 0 auto;
+    padding: 0px 0 0px;
+}
+
+
