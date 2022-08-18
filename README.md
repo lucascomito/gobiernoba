@@ -1,4 +1,4 @@
-# gobiernoba
+# Proyecto casamientos online Gobierno de Buenos Aires
 
 Proyecto de web para retransmisión de casamientos de 4 salas de casamiento en el registro civil del Gobierno de la Ciudad de Buenos Aires.
 
